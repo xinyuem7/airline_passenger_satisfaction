@@ -1,1 +1,6 @@
-# airline_passenger_satisfaction
+# Supervised Machine Learning: Building Classification Models to Predict Airline Passenger Satisfaction
+
+## Motivation
+  For businesses in different fields, customer satisfaction is one of the most important measurements to determine whether a product or a service meets customer expectations. Higher customer satisfaction leads to higher purchase intentions and custimer loyalty, which can be a strong indicator of business growth and revenue. If a customer is satisfied, they are more likely to come back for the product/service again and recommend it to other people. Considering the fact that acquiring a new customer can be 4 to 10 times more expensive than keeping an existing one ([Kingwill, 2015](https://www.linkedin.com/pulse/what-cost-customer-acquisition-vs-retention-ian-kingwill/)), it is extremely important for businesses to find ways to increase customer satisfaction.
+  
+  The above concept applies to airlines as well, and it explains the purpose of this project: help airlines understand what factors influence customer satisfaction and find ways to imporve passenger experience. The analysis result will help airlines to allocate their resources more effectively and maximize profitability.
